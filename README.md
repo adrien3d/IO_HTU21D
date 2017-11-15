@@ -1,4 +1,4 @@
-Iotech Arduino Library for
+IoThings Arduino Library for
 Measurement Specialties HTU21D Breakout
 ==============================================================
 
